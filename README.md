@@ -15,3 +15,6 @@ This repository contains the Python script and dataset used for exploratory data
 The project aims to:
 - Perform exploratory data analysis (EDA) on the logistics dataset.
 - Derive insights about delivery time, distance, and other metrics.
+
+# Dataset source
+Kaggle : https://www.kaggle.com/datasets/devarajv88/delhivery-logistics-dataset 
